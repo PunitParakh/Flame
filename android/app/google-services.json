@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "216061982395",
+    "project_id": "flame-dc0ef",
+    "storage_bucket": "flame-dc0ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216061982395:android:c39f00b62470b9e7951b9e",
+        "android_client_info": {
+          "package_name": "com.music.flame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216061982395-p61ilb0mdbil0tjkiujepoj0cnk1vvl9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.music.flame",
+            "certificate_hash": "f845ba46f057d1f7d0e1c18c1390e636cbfddb34"
+          }
+        },
+        {
+          "client_id": "216061982395-rqvp2p0a79ggv0kt8evgfs5142jjkctu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHfM4bzX-t8dTCEspK1vbTCqYiWuFwMns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216061982395-rqvp2p0a79ggv0kt8evgfs5142jjkctu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
